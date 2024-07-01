@@ -1,0 +1,39 @@
+nav
+{
+    background-color: #681f0e;
+}
+
+.nav-link
+{
+    color: white;
+}
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #CDB693;
+}
+
+main
+{
+    margin-top: 30px;
+}
+#about, #mission {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #681f0e;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
